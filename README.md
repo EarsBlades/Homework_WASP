@@ -7,7 +7,7 @@
 
 Название          | Статус | Ссылка
 ------------------|--------|--------
-Автопарк          | 🟡    | <a href="https://github.com/EarsBlades/Homework_WASP/tree/Homework1_WASP">Перейти</a>
+ДЗ №1             | 🟡    | <a href="https://github.com/EarsBlades/Homework_WASP/tree/Homework1_WASP">Перейти</a>
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
